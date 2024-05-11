@@ -6,4 +6,4 @@
 
 - 设置
   
-  ![](.\assets\mdpicture\config_configuration.yaml.png)
+  ![]([.\assets\mdpicture\config_configuration.yaml.png](https://github.com/hwzolin/test/blob/main/assets/mdpicture/config_configuration.yaml.png))
