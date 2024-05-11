@@ -6,4 +6,4 @@
 
 - 设置
   
-  ![config%20configuration.yaml](.\assets\mdpicture\config%20configuration.yaml.png)
+  ![config%20configuration.yaml](./assets/mdpicture/config%20configuration.yaml.png)
