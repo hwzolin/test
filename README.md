@@ -6,4 +6,4 @@
 
 - 如下图配置configuration.yaml
   
-  <img title="" src="[file:///./assets/mdpicture/config_configuration.yaml.png](https://github.com/hwzolin/test/blob/main/assets/mdpicture/config_configuration.yaml.png)" alt="">
+  <img src="https://github.com/hwzolin/test/blob/main/assets/mdpicture/config_configuration.yaml.png">
